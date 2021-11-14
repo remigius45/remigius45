@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @remigius45
-- 👀 I’m interested in cnc, laser, 3d-print, programming
+- 👀 I’m interested in electronics, cnc, laser, 3d-print, programming
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
