@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @remigius45
+- 👋 Hi, I’m @remigius45 - a retired electronics engineer
 - 👀 I’m interested in electronics, cnc, laser, 3d-print, programming
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning FreeCAD, KiCAD
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
